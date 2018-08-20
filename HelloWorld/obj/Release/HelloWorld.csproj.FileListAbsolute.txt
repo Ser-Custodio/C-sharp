@@ -1,0 +1,6 @@
+P:\12 - C# .Net\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe.config
+P:\12 - C# .Net\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
+P:\12 - C# .Net\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb
+P:\12 - C# .Net\HelloWorld\HelloWorld\obj\Release\HelloWorld.csproj.CoreCompileInputs.cache
+P:\12 - C# .Net\HelloWorld\HelloWorld\obj\Release\HelloWorld.exe
+P:\12 - C# .Net\HelloWorld\HelloWorld\obj\Release\HelloWorld.pdb
