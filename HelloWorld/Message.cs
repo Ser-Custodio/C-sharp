@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
-    class Message
+    public class Message
     {
         protected int matin = 9;
         protected int midi = 13;
@@ -16,7 +16,7 @@ namespace HelloWorld
         {
             String message = "";
 
-            DateTime date = new DateTime(2018, 08, 20, 15, 10, 10);
+            DateTime date = DateTime.Now;
             // get the day of the week according to the date
             DayOfWeek day = date.DayOfWeek;
 
